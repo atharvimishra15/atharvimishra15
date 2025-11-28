@@ -70,7 +70,7 @@ I'm a DevOps and IT professional passionate about building scalable infrastructu
 ### ✨ Contribution Insights
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=atharvimishra15&theme=dark&background=FFB6E1&border=FF69B4&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493" alt="GitHub Streak" width="500" />
+  <img src="https://streak-stats.demolab.com?user=atharvimishra15&theme=dark&background=E6D9FF&border=FF69B4&ring=6B4C9A&fire=FF69B4&currStreakLabel=6B4C9A" alt="GitHub Streak" width="500" />
 </p>
 
 ### 🏆 Overall Stats
