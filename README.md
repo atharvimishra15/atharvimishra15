@@ -13,7 +13,7 @@ I'm a DevOps and IT professional passionate about building scalable infrastructu
 - 🐳 Exploring containerization & orchestration
 - ⚡ Automating infrastructure at scale
 - 🎯 Currently learning cloud security & infrastructure automation
-- 🚀 Always learning, always building
+- 💫 Always learning, always building
 
 ---
 
@@ -36,23 +36,23 @@ I'm a DevOps and IT professional passionate about building scalable infrastructu
 ## 📚 Technical Skills
 
 ### DevOps & Cloud
-- CI/CD Concepts & Pipeline Design
-- Infrastructure Automation
-- Cloud Infrastructure Basics
-- Container Orchestration
+- 🔹 CI/CD Concepts & Pipeline Design
+- 🔹 Infrastructure Automation
+- 🔹 Cloud Infrastructure Basics
+- 🔹 Container Orchestration
 
 ### Systems & Tools
-- Linux (Shell Scripting, System Administration)
-- Git & GitHub (Version Control, Collaboration)
-- Docker (Containerization)
-- GitHub Actions (Workflow Automation)
-- VS Code (Development Environment)
+- 💻 Linux (Shell Scripting, System Administration)
+- 📦 Git & GitHub (Version Control, Collaboration)
+- 🐋 Docker (Containerization)
+- ⚙️ GitHub Actions (Workflow Automation)
+- 🎨 VS Code (Development Environment)
 
 ### Development
-- Core Programming Concepts
-- Problem Solving & Algorithm Design
-- Full-Stack Development Basics
-- Code Quality & Best Practices
+- 🎯 Core Programming Concepts
+- 🧩 Problem Solving & Algorithm Design
+- 🌐 Full-Stack Development Basics
+- ✨ Code Quality & Best Practices
 
 ---
 
@@ -67,29 +67,35 @@ I'm a DevOps and IT professional passionate about building scalable infrastructu
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=atharvimishra15&theme=github&background=000000&border=ffffff&ring=8b949e&fire=8b949e&currStreakLabel=8b949e" alt="GitHub Streak" />
-</p>
+### ✨ Contribution Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvimishra15&layout=compact&theme=github_dark&title_color=e0e0e0&text_color=e0e0e0&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=atharvimishra15&theme=github&background=000000&border=ffffff&ring=8b949e&fire=8b949e&currStreakLabel=8b949e" alt="GitHub Streak" width="500" />
 </p>
 
+### 🏆 Overall Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvimishra15&show_icons=true&theme=github_dark&title_color=e0e0e0&icon_color=8b949e&text_color=e0e0e0&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvimishra15&show_icons=true&theme=github_dark&title_color=e0e0e0&icon_color=8b949e&text_color=e0e0e0&bg_color=0d1117&hide_border=true" alt="GitHub Stats" width="500" />
+</p>
+
+### 🔤 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvimishra15&layout=compact&theme=github_dark&title_color=e0e0e0&text_color=e0e0e0&bg_color=0d1117&hide_border=true" alt="Top Languages" width="500" />
 </p>
 
 ---
 
-## 🗂️ Featured Projects
+## 📂 Featured Projects
 
-### Backend & Infrastructure
+### Backend & Infrastructure 🚀
 - **CI/CD Pipeline Automation** - Designing and implementing automated deployment workflows
 - **Infrastructure as Code** - Building reproducible infrastructure using automation tools
 - **Microservices Architecture** - Developing scalable backend services
 - **System Administration** - Linux-based system configuration and optimization
 
-### Tools & Technologies
+### Tools & Technologies ⚙️
 - **Docker Containerization** - Creating efficient, portable application containers
 - **GitHub Workflows** - Automating development and deployment processes
 - **Git Workflows** - Managing collaborative version control at scale
@@ -105,4 +111,16 @@ I'm a DevOps and IT professional passionate about building scalable infrastructu
 
 ---
 
-> **"Always learning, always building. Let's create something meaningful together."** 🚀
+<div align="center">
+  
+### 💭 Fun Facts
+- 🔍 Love debugging code as much as exploring new tech
+- ☕ Powered by coffee and curiosity
+- 📚 Forever a learner in the tech universe
+- 🎮 When not coding, exploring automation challenges
+  
+</div>
+
+---
+
+> **"Always learning, always building. Let's create something meaningful together."** 🚀✨
