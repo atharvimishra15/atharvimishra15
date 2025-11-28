@@ -1,8 +1,11 @@
-# 👋 Atharvi Mishra
+# 🌸 Hi, I'm Atharvi! Welcome to My Tech Journey ✨
 
-> **DevOps Engineer** | **IT Enthusiast** | **Full-Stack Developer**
+> **DevOps Engineer** 💼 | **IT Enthusiast** 🚀 | **Full-Stack Developer** 💻
+> *"Always learning, always building. Let's create something meaningful together."* 🌟
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&color=B19CD9&center=true&vCenter=true&width=600&lines=DevOps+Engineer;IT+Enthusiast;Full-Stack+Developer;Always+Learning+%E2%9C%A8" alt="Typing SVG"/>
+</div>---
 
 ## 🚀 About Me
 
